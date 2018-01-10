@@ -30,7 +30,7 @@ header h1 {
 }
 
 main {
-  width: 40%;
+  width: 30%;
   margin-left: 50px;
   vertical-align: top;
 }
@@ -89,8 +89,8 @@ footer {
 
   main {
     display: block;
-    width: 100%;
-    margin-left: 50px;
+    width: 90%;
+    margin-left: 20px;
   }
   main p{
     padding-right: 50px;
